@@ -6,6 +6,7 @@ import VideoCallIcon from '@material-ui/icons/VideoCall';
 import AppsIcon from '@material-ui/icons/Apps';
 import NotificationIcon from '@material-ui/icons/Notifications';
 import Avatar from '@material-ui/core/Avatar';
+import headerLogo from './img/irontube_logo.svg';
 
 
 function Header() {
@@ -15,24 +16,25 @@ function Header() {
                 <MenuIcon/>
                 <img
                     className="header_logo"
-                    src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg"
+                    src={headerLogo}
                     alt="youtube-logo"
                 />
             </div>
 
             <div className="header_input">
-                <input type="text"/>
-                <button><SearchIcon/></button>
+                <input type="text" placeholder="Search"/>
+                <SearchIcon className="header_inputButton"/>
             </div>
             
-            
-            <VideoCallIcon/>
-            <AppsIcon/>
-            <NotificationIcon/>
-            <Avatar
-                src ="https://yt3.ggpht.com/yti/ANoDKi47dbMQFOQzzZF1KBORk8m-U6fKNIBO1TfPnTqx=s88-c-k-c0x00ffffff-no-rj-mo"
-                alt="Lucas Image"
-            />
+            <div className="header_icons">
+                <VideoCallIcon className="header_icon"/>
+                <AppsIcon className="header_icon"/>
+                <NotificationIcon className="header_icon"/>
+                <Avatar
+                    src ="https://yt3.ggpht.com/yti/ANoDKi47dbMQFOQzzZF1KBORk8m-U6fKNIBO1TfPnTqx=s88-c-k-c0x00ffffff-no-rj-mo"
+                    alt="Lucas Image"
+                />
+            </div>     
         </div>
     )
 }
