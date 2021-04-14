@@ -22,6 +22,10 @@
     border: 1px solid black;
 }
 
+.header_input input:focus{
+    outline: none;
+}
+
 .header_input > input {
     flex: 1;
     border: none;
