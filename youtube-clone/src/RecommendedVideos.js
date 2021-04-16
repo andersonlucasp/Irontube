@@ -13,7 +13,7 @@ function RecommendedVideos() {
                 timestamp="3 days ago"
                 channelImage="https://yt3.ggpht.com/ytc/AAUvwnjcXPyiTososZH3dj7jQ0UOgc3kRMkI1XesIJab=s176-c-k-c0x00ffffff-no-rj-mo"
                 channel="fallenINSIDER"
-                image = "https://i.ytimg.com/an_webp/7udAc0IYu2I/mqdefault_6s.webp?du=3000&sqp=COiJ2IMG&rs=AOn4CLDFaf3UFM5CUAJ1Hn071YRA8hfezA"
+                image="https://i.pinimg.com/originals/91/bf/8a/91bf8a9d2e76ad5861391cbdad9ff629.jpg"
                 />
                 
                 <VideoCard
@@ -22,7 +22,7 @@ function RecommendedVideos() {
                 timestamp="3 days ago"
                 channelImage="https://yt3.ggpht.com/ytc/AAUvwnjcXPyiTososZH3dj7jQ0UOgc3kRMkI1XesIJab=s176-c-k-c0x00ffffff-no-rj-mo"
                 channel="fallenINSIDER"
-                image = "https://i.ytimg.com/an_webp/7udAc0IYu2I/mqdefault_6s.webp?du=3000&sqp=COiJ2IMG&rs=AOn4CLDFaf3UFM5CUAJ1Hn071YRA8hfezA"
+                image = "https://i.pinimg.com/originals/91/bf/8a/91bf8a9d2e76ad5861391cbdad9ff629.jpg"
                 />
 
                 <VideoCard
@@ -31,7 +31,7 @@ function RecommendedVideos() {
                 timestamp="3 days ago"
                 channelImage="https://yt3.ggpht.com/ytc/AAUvwnjcXPyiTososZH3dj7jQ0UOgc3kRMkI1XesIJab=s176-c-k-c0x00ffffff-no-rj-mo"
                 channel="fallenINSIDER"
-                image = "https://i.ytimg.com/an_webp/7udAc0IYu2I/mqdefault_6s.webp?du=3000&sqp=COiJ2IMG&rs=AOn4CLDFaf3UFM5CUAJ1Hn071YRA8hfezA"
+                image="https://i.pinimg.com/originals/91/bf/8a/91bf8a9d2e76ad5861391cbdad9ff629.jpg"
                 />
 
                 <VideoCard
@@ -40,7 +40,7 @@ function RecommendedVideos() {
                 timestamp="3 days ago"
                 channelImage="https://yt3.ggpht.com/ytc/AAUvwnjcXPyiTososZH3dj7jQ0UOgc3kRMkI1XesIJab=s176-c-k-c0x00ffffff-no-rj-mo"
                 channel="fallenINSIDER"
-                image = "https://i.ytimg.com/an_webp/7udAc0IYu2I/mqdefault_6s.webp?du=3000&sqp=COiJ2IMG&rs=AOn4CLDFaf3UFM5CUAJ1Hn071YRA8hfezA"
+                image="https://i.pinimg.com/originals/91/bf/8a/91bf8a9d2e76ad5861391cbdad9ff629.jpg"
                 />
 
                 <VideoCard
@@ -49,7 +49,7 @@ function RecommendedVideos() {
                 timestamp="3 days ago"
                 channelImage="https://yt3.ggpht.com/ytc/AAUvwnjcXPyiTososZH3dj7jQ0UOgc3kRMkI1XesIJab=s176-c-k-c0x00ffffff-no-rj-mo"
                 channel="fallenINSIDER"
-                image = "https://i.ytimg.com/an_webp/7udAc0IYu2I/mqdefault_6s.webp?du=3000&sqp=COiJ2IMG&rs=AOn4CLDFaf3UFM5CUAJ1Hn071YRA8hfezA"
+                image="https://i.pinimg.com/originals/91/bf/8a/91bf8a9d2e76ad5861391cbdad9ff629.jpg"
                 />
 
                 <VideoCard
@@ -58,7 +58,7 @@ function RecommendedVideos() {
                 timestamp="3 days ago"
                 channelImage="https://yt3.ggpht.com/ytc/AAUvwnjcXPyiTososZH3dj7jQ0UOgc3kRMkI1XesIJab=s176-c-k-c0x00ffffff-no-rj-mo"
                 channel="fallenINSIDER"
-                image = "https://i.ytimg.com/an_webp/7udAc0IYu2I/mqdefault_6s.webp?du=3000&sqp=COiJ2IMG&rs=AOn4CLDFaf3UFM5CUAJ1Hn071YRA8hfezA"
+                image="https://i.pinimg.com/originals/91/bf/8a/91bf8a9d2e76ad5861391cbdad9ff629.jpg"
                 />
 
                 <VideoCard
@@ -67,7 +67,7 @@ function RecommendedVideos() {
                 timestamp="3 days ago"
                 channelImage="https://yt3.ggpht.com/ytc/AAUvwnjcXPyiTososZH3dj7jQ0UOgc3kRMkI1XesIJab=s176-c-k-c0x00ffffff-no-rj-mo"
                 channel="fallenINSIDER"
-                image = "https://i.ytimg.com/an_webp/7udAc0IYu2I/mqdefault_6s.webp?du=3000&sqp=COiJ2IMG&rs=AOn4CLDFaf3UFM5CUAJ1Hn071YRA8hfezA"
+                image="https://i.pinimg.com/originals/91/bf/8a/91bf8a9d2e76ad5861391cbdad9ff629.jpg"
                 />
 
                 <VideoCard
@@ -76,7 +76,7 @@ function RecommendedVideos() {
                 timestamp="3 days ago"
                 channelImage="https://yt3.ggpht.com/ytc/AAUvwnjcXPyiTososZH3dj7jQ0UOgc3kRMkI1XesIJab=s176-c-k-c0x00ffffff-no-rj-mo"
                 channel="fallenINSIDER"
-                image = "https://i.ytimg.com/an_webp/7udAc0IYu2I/mqdefault_6s.webp?du=3000&sqp=COiJ2IMG&rs=AOn4CLDFaf3UFM5CUAJ1Hn071YRA8hfezA"
+                image="https://i.pinimg.com/originals/91/bf/8a/91bf8a9d2e76ad5861391cbdad9ff629.jpg"
                 /> 
         
             </div>
